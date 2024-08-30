@@ -1,24 +1,5 @@
 [
-  {
-    "name": "a_milk_thief",
-    "userImage": "https://runwithoz.github.io/vuestagram/img_06.jpg",
-    "postImage": "https://runwithoz.github.io/vuestagram/img_01.jpg",
-    "likes": 36,
-    "date": "2023년 12월 23일",
-    "liked": false,
-    "content": "❄️",
-    "filter": "perpetua"
-  },
-  {
-    "name": "a_milk_thief",
-    "userImage": "https://runwithoz.github.io/vuestagram/img_06.jpg",
-    "postImage": "https://runwithoz.github.io/vuestagram/img_02.jpg",
-    "likes": 20,
-    "date": "4 월 2일",
-    "liked": false,
-    "content": "봄이다",
-    "filter": "clarendon"
-  },
+  
   {
     "name": "a_milk_thief",
     "userImage": "https://runwithoz.github.io/vuestagram/img_06.jpg",
